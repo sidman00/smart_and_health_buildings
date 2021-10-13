@@ -70,7 +70,7 @@ def generate_linklab_heatmap(start_datetime, end_datetime, fields, export_filepa
           aspect = link_lab_heat_map.get_aspect(),
           extent = link_lab_heat_map.get_xlim() + link_lab_heat_map.get_ylim(),
           zorder = 1) #put the map under the heatmap
-    plt.savefig(export_filepath+'/heatmap.png')
+    # plt.savefig(export_filepath+'/heatmap.png')
     plt.show()
     return results_df
          
