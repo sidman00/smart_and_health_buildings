@@ -1,0 +1,67 @@
+Locaiton 1 : 
+
+coordinates = {
+    '<Address c2:00:7d:00:00:95>' : [12.54,23.69], #C2
+    '<Address c2:00:7d:00:00:91>' : [8.46,30.39] #C1
+}
+
+Localization in relation to C1 [8.46, 30.39] being set as origin
+[4.20496, 8.35762]
+Localization in relation to C1 [8.46, 30.39] being set as origin
+[4.20496, 8.35762]
+Localization in relation to C1 [8.46, 30.39] being set as origin
+[4.20496, 8.35762]
+4.20496, 8.35762
+
+Location 5 : 
+Localization in relation to C1 [37.8, 10.21] being set as origin
+[4.34362, 4.38461]
+Localization in relation to C1 [37.8, 10.21] being set as origin
+[4.34362, 4.38461]
+Localization in relation to C1 [37.8, 10.21] being set as origin
+[4.34362, 4.38461]
+4.34362 4.34362
+
+coordinates = {
+    '<Address c2:00:7d:00:00:5a>' : [40.15,18.81], #C2
+    '<Address c2:00:7d:00:00:6b>' : [37.8,10.21] #C1
+}
+
+Location 2: 
+Localization in relation to C1 [37.8, 10.21] being set as origin
+[6.40378, 4.80241]
+Localization in relation to C1 [37.8, 10.21] being set as origin
+[6.40378, 4.80241]
+Localization in relation to C1 [37.8, 10.21] being set as origin
+[6.40378, 4.80241]
+6.40378 6.40378
+
+coordinates = {
+    '<Address c2:00:7d:00:00:5a>' : [40.15,18.81], #C2
+    '<Address c2:00:7d:00:00:6b>' : [37.8,10.21] #C1
+}
+
+Location 3 : 
+
+Localization in relation to C1 [37.8, 10.21] being set as origin
+[8.39254, 6.63062]
+Localization in relation to C1 [37.8, 10.21] being set as origin
+[8.39254, 6.63062]
+Localization in relation to C1 [37.8, 10.21] being set as origin
+[8.39254, 6.63062]
+8.39254 8.39254
+
+coordinates = {
+    '<Address c2:00:7d:00:00:9d>' : [56.41,7.64], #C2
+    '<Address c2:00:7d:00:00:6b>' : [37.8,10.21] #C1
+}
+
+
+loction 4:
+{'<Address c2007d000061>': [15.95, 13.48], '<Address c2007d00009a>': [8.05, 16.06]}
+dict_keys(['<Address c2007d000061>', '<Address c2007d00009a>'])
+Localization in relation to C1 [15.95, 13.48] being set as origin
+[5.18685, 6.92712]
+5.18685 5.18685
+
+
