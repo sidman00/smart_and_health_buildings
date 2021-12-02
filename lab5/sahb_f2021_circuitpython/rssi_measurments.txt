@@ -1,0 +1,7 @@
+rssi at 1 meter(1,2,3 feet) is -53 for beacon transmission power possibly is 6 dbm using this link(https://support.kontakt.io/hc/en-gb/articles/201621521-Transmission-power-Range-and-RSSI). 
+rssi at 2 meters(6 feet) is -60
+rssi at 3 meters (9 feet) is -71 
+rssi at 4 meters (12 feet) -76 
+
+
+ 
